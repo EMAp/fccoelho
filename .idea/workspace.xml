@@ -25,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="site.yaml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="site.yaml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="18" selection-start="1402" selection-end="1402" vertical-scroll-proportion="1.026455">
+            <state line="43" column="18" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/publicacoes/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+            <state line="10" column="5" selection-start="142" selection-end="142" vertical-scroll-proportion="0.26455027">
               <folding />
             </state>
           </provider>
@@ -307,7 +307,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="-3" width="1370" height="740" extended-state="7" />
+    <frame x="-2" y="-3" width="1370" height="740" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -440,11 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/publicacoes/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="13" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" />
@@ -452,7 +447,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="18" selection-start="1402" selection-end="1402" vertical-scroll-proportion="1.026455">
+        <state line="43" column="18" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/publicacoes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="142" selection-end="142" vertical-scroll-proportion="0.26455027">
           <folding />
         </state>
       </provider>
