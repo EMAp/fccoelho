@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>
+        BASIC blog full text feed    </title>
+        <link href="blog/atom.xml" rel="self" />
+    
+        <link href="/"/>
+    
+        
+    <updated>2012-02-14T13:15:30Z</updated>
+
+    <id>/blog/atom.xml/</id>
+
+            <entry>
+            <title type="html">Infraestrutura HPC da FGV Instalada</title>
+            <author><name>Flávio Codeço Coelho</name></author>
+            <link href="/blog/HPC.html"/>
+            <updated>2011-02-14T10:00:00Z</updated>
+            <published>2011-02-14T10:00:00Z</published>
+            <id>/blog/HPC.html</id>
+                        <category   scheme="/blog/tags"
+                        term="computacao"
+                        label="Computacao" />
+                        <category   scheme="/blog/tags"
+                        term="infraestrutura"
+                        label="Infraestrutura" />
+            
+            <content type="html">
+                                &lt;p&gt;&lt;img alt=&#34;Blade Center&#34; src=&#34;/media/images/bladecenter.jpg&#34; /&gt;
+Acaba de ser instalado a nova infraestrutura de &lt;span class=&#34;caps&#34;&gt;HPC&lt;/span&gt; da &lt;span class=&#34;caps&#34;&gt;FGV&lt;/span&gt;. A EMAp será uma dos principais usuários.
+Comprado no segundo semestre de 2011, e financiado parcialmente com verbas de projeto de pesquisa em parceria entre a
+EMAp e a Direito-Rio, O equipamento foi instalado em janeiro de 2012 e já está pronto para ser&amp;nbsp;utilizado.&lt;/p&gt;
+&lt;p&gt;A instalação foi feita em um novo datacenter situado no 3º andar do edifício sede da &lt;span class=&#34;caps&#34;&gt;FGV&lt;/span&gt;, junto à Escola de
+Matemática Aplicada, sua principal&amp;nbsp;demandante.&lt;/p&gt;            </content>
+        </entry>
+    </feed>
