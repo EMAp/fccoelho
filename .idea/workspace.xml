@@ -25,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="site.yaml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="site.yaml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="18" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0">
+            <state line="13" column="47" selection-start="604" selection-end="604" vertical-scroll-proportion="0.34391534">
               <folding />
             </state>
           </provider>
@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/publicacoes/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="5" selection-start="142" selection-end="142" vertical-scroll-proportion="0.26455027">
+            <state line="10" column="5" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -87,7 +87,6 @@
       <list>
         <option value="$PROJECT_DIR$/info.yaml" />
         <option value="$PROJECT_DIR$/layout/blog.j2" />
-        <option value="$PROJECT_DIR$/site.yaml" />
         <option value="$PROJECT_DIR$/content/projetos.html" />
         <option value="$PROJECT_DIR$/layout/base.j2" />
         <option value="$PROJECT_DIR$/content/blog/index.html" />
@@ -97,6 +96,7 @@
         <option value="$PROJECT_DIR$/content/blog/happy-post.html" />
         <option value="$PROJECT_DIR$/content/blog/HPC.html" />
         <option value="$PROJECT_DIR$/content/publicacoes/index.html" />
+        <option value="$PROJECT_DIR$/site.yaml" />
       </list>
     </option>
   </component>
@@ -445,16 +445,16 @@
         <state line="1" column="13" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site.yaml">
+    <entry file="file://$PROJECT_DIR$/content/publicacoes/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="18" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0">
+        <state line="10" column="5" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/publicacoes/index.html">
+    <entry file="file://$PROJECT_DIR$/site.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="142" selection-end="142" vertical-scroll-proportion="0.26455027">
+        <state line="13" column="47" selection-start="604" selection-end="604" vertical-scroll-proportion="0.34391534">
           <folding />
         </state>
       </provider>
