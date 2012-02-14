@@ -65,7 +65,10 @@ tagger:
             archive_extension: html
             meta:
                 listable: false
-
+markdown:
+    extensions:
+        - def_list
+        - headerid
 publisher:
     github:
         type: hyde.ext.publishers.dvcs.Git
