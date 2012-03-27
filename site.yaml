@@ -29,7 +29,7 @@ context:
                 description: Publicações científicas
                 css_class: publicacoes
                 type: page
-                url: publicacoes.md
+                url: publicacoes.html
             -
                 name: Blog
                 description: Blog
