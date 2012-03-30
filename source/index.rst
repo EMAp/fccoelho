@@ -6,6 +6,8 @@
 Flávio Codeço Coelho, PhD
 =========================
 
+Sou biólogo (UFRJ,1992), MSc em Engenharia Biomédica (COPPE,1995), e Doutor em Biologia Quantitativa (UTA,1999). Sou Professor associado da Escola de Matemática Aplicada da FGV onde desenvolvo pesquisa ajudo a forma a nova geração de matemáticos aplicados e coordeno projetos de desenvolvimento tecnológico. 
+
 Seções
 ------
 
