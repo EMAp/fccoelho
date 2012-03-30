@@ -6,7 +6,7 @@
 Flávio Codeço Coelho, PhD
 ===================================
 
-Contents:
+
 
 .. toctree::
    :maxdepth: 2
