@@ -1,4 +1,0 @@
-extends: blog.j2
-default_block: post
-listable: true
-charset: utf-8
