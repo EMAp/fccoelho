@@ -4,9 +4,10 @@
    contain the root `toctree` directive.
 
 Flávio Codeço Coelho, PhD
-===================================
+=========================
 
-
+Seções
+------
 
 .. toctree::
    :maxdepth: 2
@@ -18,10 +19,9 @@ Flávio Codeço Coelho, PhD
    Produtos
 
 
-Indices and tables
-==================
+Encontre o que procura
+----------------------
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
