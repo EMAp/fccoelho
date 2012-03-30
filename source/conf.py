@@ -99,7 +99,7 @@ html_theme = 'agogo'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-#html_theme_path = []
+html_theme_path = ['.']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -110,7 +110,7 @@ html_theme = 'agogo'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = 'Flavio3.JPG'
+html_logo = 'Flavio3.JPG'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
