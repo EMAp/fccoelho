@@ -11,11 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-    Projetos
-    Publicações
-    Equipe
-    Colaboradores
-    Produtos
+   Projetos
+   Publicacoes
+   Equipe
+   Colaboradores
+   Produtos
 
 
 Indices and tables
