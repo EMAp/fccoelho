@@ -23,3 +23,18 @@ Fundação Getúlio Vargas
 
 **Paulo Cezar Carvalho**
     Colaborador no Projeto de Modelagem da Dengue.
+
+Fundação Oswaldo Cruz
+---------------------
+
+**Claudia Torres Codeço**
+    Colaboradora em projetos de modelagem epidemiológica, e ontologia de modelos matemáticos e de dengue. Além de diversos outros projetos.
+
+**Oswaldo Gonçalves Cruz**
+    Colaborador em Projetos de modelagem matemática e estatística em epidemiologia, e projetos em computação científica.
+
+Universidade Federal do Rio de Janeiro
+--------------------------------------
+
+**Alexandre Evsukoff**
+    Colaborador em projetos de modelagem de redes de complexas e mineração de dados.
