@@ -16,11 +16,11 @@ Artigos Publicados
 
 #. CODEÇO, C. T., COELHO, F. C.Redes: um olhar sistêmico para a epidemiologia de doenças transmissíveis.. Ciência & Saúde Coletiva. , v.13, p.1767 - 1774, 2008.
 
-# CODEÇO, C. T., LUZ, P. M., COELHO, F. C., GALVANI, A. P., STRUCHINER, C. J.Vaccinating in disease-free regions: avaccine model with application toyellow fever. Journal of the Royal Society Interface. , v.1, p.1 - , 2007.
+#. CODEÇO, C. T., LUZ, P. M., COELHO, F. C., GALVANI, A. P., STRUCHINER, C. J.Vaccinating in disease-free regions: avaccine model with application toyellow fever. Journal of the Royal Society Interface. , v.1, p.1 - , 2007.
 
-# STRUCHINER, C. J., LUZ, P. M., CODEÇO, C. T., COELHO, F. C., MASSAD, E.Current research issues in mosquito-borne disease modelling. Contemporary Mathematics. American Mathematical Society. , v.410, p.301-312 - , 2006.
+#. STRUCHINER, C. J., LUZ, P. M., CODEÇO, C. T., COELHO, F. C., MASSAD, E.Current research issues in mosquito-borne disease modelling. Contemporary Mathematics. American Mathematical Society. , v.410, p.301-312 - , 2006.
 
-# CODEÇO, C. T., COELHO, F. C.Trends in cholera epidemiology. Plos medicine. , v.3, p.e42 - , 2006.
+#. CODEÇO, C. T., COELHO, F. C.Trends in cholera epidemiology. Plos medicine. , v.3, p.e42 - , 2006.
 
 #. CYRINO, F. Z., BOTTINO, D. A., COELHO, F. C., RAVEL, D., BOUSKELA, E.Effects of sulphonylureas on KATP channel-dependent vasodilation. Journal of Diabetes and its Complications. , v.17, p.6 - 10, 2003.
 
