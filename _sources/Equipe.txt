@@ -6,7 +6,7 @@ Alunos de Mestrado
 
 * Joyce Figueiró. Modelagem Estocástica de Conflitos Judiciais. 2012. Dissertação (Modelagem Matemática da Informação) - Fundação Getúlio Vargas
 
-Assitentes de Pesquisa
+Assistentes de Pesquisa
 ----------------------
 
 * Alvaro Justen (Aluno de Graduação
@@ -15,3 +15,8 @@ Assitentes de Pesquisa
 * Israel (Mestrando)
 * Rodolfo Carvalho (Graduado)
 * Claudio Berrondo (Mestrando)
+
+Pós-Doutorandos
+---------------
+
+* Crysttian Arantes Paixão
