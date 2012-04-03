@@ -7,7 +7,7 @@ def make():
 def deploy():
     local('git add *')
     local('rm -rf _s*')
-    local('mv -f html/* .')
+#    local('mv -f html/* .')
     local('git commit -a')
     local('git push')
     
