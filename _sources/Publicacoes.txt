@@ -4,9 +4,13 @@ Publicações
 Artigos Publicados
 ------------------
 
-#. Codeço, Cláudia Torres, Coelho, Flávio CodeçoMODELAGEM DE DOENÇAS TRANSMISSÍVEIS. Oecologia Australis. , v.16, p.110 - 116, 2012.
+#. Codeço, Cláudia Torres, Coelho, Flávio Codeço. MODELAGEM DE DOENÇAS TRANSMISSÍVEIS. Oecologia Australis. , v.16, p.110 - 116, 2012.
+
+#. COELHO, F. C., CODEÇO, C. T., Souza, R. R. Towards an Ontology for Mathematical Modeling with Application to Epidemiology In: 12th International ISKO Conference - Categories, Relations and Contexts in Knowledge Organization, 2012, Mysore.  Proceedings of the 12th International ISKO Conference - Categories, Relations and Contexts in Knowledge Organization. , 2012.
 
 #. COELHO, F. C., Codeço, Cláudia Torres, Gomes, M. Gabriela M.A Bayesian Framework for Parameter Estimation in Dynamical Models. Plos One. , v.6, p.e19616 - , 2011.
+
+#. Souza, R. R., Higuchi, S., Rademaker, A., Sá, A.M., COELHO, F. C., Silva, M. A. H. B. Portal Semântico do CPDOC In: IV Encontro de Bases de Dados Sobre Informações Arquivísticas, 2011, Rio de Janeiro. IV Encontro de Bases de Dados Sobre Informações Arquivísticas. , 2011.
 
 #. COELHO, F. C., CODEÇO, C. T.Dynamic Modeling of Vaccinating Behavior as a Function of Individual Beliefs. PLoS Computational Biology. , v.5, p.e1000425 - , 2009.
 
@@ -45,5 +49,7 @@ Livros Publicados
 
 #. Liu, Limin Angela, WEI, D., Li,Yixue, Lei, Huimin, COELHO, F. C. Handbook of Research on Computational and Systems Biology. New York : Medical Information Science Reference, 2011, v.1. p.775.
 
-#.COELHO, F. C.Computação Científica com Python. Petrópolis : Lulu, 2007, v.1. p.305.
+#. COELHO, F. C.Computação Científica com Python. Petrópolis : Lulu, 2007, v.1. p.305.
+
+
 
