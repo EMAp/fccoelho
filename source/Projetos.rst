@@ -3,5 +3,11 @@ Projetos
 
 Projetos de pesquisa atualmente em andamento:
 
-PyPLN
------
+.. toctree::
+   :titlesonly:
+   
+   pypln
+   sen
+   mbj
+   culturomics
+   dengue
