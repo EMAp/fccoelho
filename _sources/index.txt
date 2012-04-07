@@ -13,7 +13,7 @@ Seções
 
 .. toctree::
    :titlesonly:
-   :maxdepth: 2
+   :maxdepth: 1
 
    Projetos
    Publicacoes
