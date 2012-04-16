@@ -3,10 +3,14 @@ Publicações
 
 Artigos Publicados
 ------------------
+#. CODEÇO, C. T., Cordeiro, J.S., Lima, A.W.S., Colpo, R.A., CRUZ, O. G., COELHO, F. C., LUZ, P. M., STRUCHINER, C. J., Barros, F.R.
+The Epidemic Wave of Influenza A (H1N1) 2009 in Brazil. Cadernos de Saúde Pública (ENSP. Impresso). , 2012.
 
 #. Codeço, Cláudia Torres, Coelho, Flávio Codeço. MODELAGEM DE DOENÇAS TRANSMISSÍVEIS. Oecologia Australis. , v.16, p.110 - 116, 2012.
 
-#. COELHO, F. C., CODEÇO, C. T., Souza, R. R. Towards an Ontology for Mathematical Modeling with Application to Epidemiology In: 12th International ISKO Conference - Categories, Relations and Contexts in Knowledge Organization, 2012, Mysore.  Proceedings of the 12th International ISKO Conference - Categories, Relations and Contexts in Knowledge Organization. , 2012.
+#. COELHO, F. C., CODEÇO, C. T., Souza, R. R. Towards an Ontology for Mathematical Modeling with Application to Epidemiology. In: 12th International ISKO Conference - Categories, Relations and Contexts in Knowledge Organization, 2012, Mysore.  Proceedings of the 12th International ISKO Conference - Categories, Relations and Contexts in Knowledge Organization. , 2012.
+
+#. COELHO F. C., Souza, R. R., Cerdeira P.C. Information mining and visualization of data from the Brazilian Supreme Court (STF): a case study. In: 12th International ISKO Conference - Categories, Relations and Contexts in Knowledge Organization, 2012, Mysore.  Proceedings of the 12th International ISKO Conference - Categories, Relations and Contexts in Knowledge Organization. , 2012.
 
 #. COELHO, F. C., Codeço, Cláudia Torres, Gomes, M. Gabriela M.A Bayesian Framework for Parameter Estimation in Dynamical Models. Plos One. , v.6, p.e19616 - , 2011.
 
