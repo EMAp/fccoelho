@@ -3,8 +3,7 @@ Publicações
 
 Artigos Publicados
 ------------------
-#. CODEÇO, C. T., Cordeiro, J.S., Lima, A.W.S., Colpo, R.A., CRUZ, O. G., COELHO, F. C., LUZ, P. M., STRUCHINER, C. J., Barros, F.R.
-The Epidemic Wave of Influenza A (H1N1) 2009 in Brazil. Cadernos de Saúde Pública (ENSP. Impresso). , 2012.
+#. CODEÇO, C. T., Cordeiro, J.S., Lima, A.W.S., Colpo, R.A., CRUZ, O. G., COELHO, F. C., LUZ, P. M., STRUCHINER, C. J., Barros, F.R. The Epidemic Wave of Influenza A (H1N1) 2009 in Brazil. Cadernos de Saúde Pública (ENSP. Impresso). , 2012.
 
 #. Codeço, Cláudia Torres, Coelho, Flávio Codeço. MODELAGEM DE DOENÇAS TRANSMISSÍVEIS. Oecologia Australis. , v.16, p.110 - 116, 2012.
 
