@@ -1,7 +1,7 @@
 PyPLN
 =====
 
-Este projeto consiste em uma plataforma para análise textual de alto nível, envovendo ferramentas de análise léxica, sintática e semânti de corpora de textos em português e inglês.
+Este projeto consiste em uma plataforma para análise textual de alto nível, envovendo ferramentas de análise léxica, sintática e semântica de corpora de textos em português e inglês.
 
  Engloba inovações em vários domínios desde o processamento de linguagem natural, até a infraestrura subjacente de processamento distribuído que dá escala ao nossos sistema para analisar eficientemente grandes coleções de texto.
 
