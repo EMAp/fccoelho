@@ -1,7 +1,7 @@
 Equipe
 ======
 
-Nossa equipe está agregada no grupo de pesquisa NAMD (https://github.com/NAMD) sob coordenação minha em conjunto com o professor Renato Rocha souza.
+Nossa equipe está agregada no grupo de pesquisa NAMD (https://github.com/NAMD) sob minha coordenação em conjunto com o professor Renato Rocha Souza.
 
 Alunos de Mestrado
 ------------------
@@ -17,13 +17,13 @@ Alunos de Doutorado
 Assistentes de Pesquisa
 -----------------------
 
-* Alvaro Justen (Aluno de Graduação)
+* Alvaro Justen (Graduando)
 * Daniel Chada (Doutorando)
 * Ângelo Calvão Mondaini (Doutorando)
 * Dayanne Fernandes (Mestre)
 * Israel Teixeira (Mestrando)
 * Andre Oliveira (Mestrando)
-* Flávio Amieiro (Mestrando)
+* Flávio Amieiro (Graduando)
 
 Pós-Doutorandos
 ---------------
