@@ -1,11 +1,9 @@
-Supremo Em Números
+Supremo em Números
 ==================
 
 Este projeto envolve a mineração de informações de um banco de dados de mais de 1 milhão de processos do supremo tribunal federal.
 
 Nele desenvolvemos e aplicamos diversas técnicas de visual analytics, teoria de grafos, e mineração de texto.
-
-Nossa principal linguagem para o desenvolvimento das análises é o Python e os códigos produzidos no projeto são sempre disponibilizados sob licenças Open Source.
 
 Alguns resultados na área de visual analytics podem ser visualizados abaixo:
 

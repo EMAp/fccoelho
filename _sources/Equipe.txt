@@ -1,6 +1,8 @@
 Equipe
 ======
 
+Nossa equipe está agregada no grupo de pesquisa NAMD (https://github.com/NAMD) sob coordenação minha em conjunto com o professor Renato Rocha souza.
+
 Alunos de Mestrado
 ------------------
 
