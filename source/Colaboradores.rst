@@ -24,6 +24,15 @@ Fundação Getúlio Vargas
 **Paulo Cezar Carvalho**
     Colaborador no Projeto de Modelagem da Dengue.
 
+**Hugo de La Cruz**
+    Colaborador em Modelagem estocática da Dengue
+
+**Ronaldo Lemos**
+    Colaborador no Projeto FGV-Cloud
+
+**Bruno Magrani**
+    Colaborador no Projeto FGV-Cloud
+
 Fundação Oswaldo Cruz
 ---------------------
 

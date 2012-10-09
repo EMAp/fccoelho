@@ -7,7 +7,12 @@ Alunos de Mestrado
 ------------------
 
 * Joyce Figueiró. Modelagem Estocástica de Conflitos Judiciais. 2012. Dissertação (Modelagem Matemática da Informação) - Fundação Getúlio Vargas
-* Diego Ferreira. 2012
+* Daniel Fialho. 2012
+
+Alunos de Doutorado
+-------------------
+
+* Julio César Chaves (Co-orientação com Alexandre Evsukoff)
 
 Assistentes de Pesquisa
 -----------------------
@@ -15,9 +20,10 @@ Assistentes de Pesquisa
 * Alvaro Justen (Aluno de Graduação)
 * Daniel Chada (Doutorando)
 * Ângelo Calvão Mondaini (Doutorando)
-* Israel (Mestrando)
-* Rodolfo Carvalho (Graduado)
-* Claudio Berrondo (Mestrando)
+* Dayanne Fernandes (Mestre)
+* Israel Teixeira (Mestrando)
+* Andre Oliveira (Mestrando)
+* Flávio Amieiro (Mestrando)
 
 Pós-Doutorandos
 ---------------
