@@ -10,7 +10,7 @@ Alunos de Mestrado
 Assistentes de Pesquisa
 -----------------------
 
-* Alvaro Justen (Aluno de Graduação
+* Alvaro Justen (Aluno de Graduação)
 * Daniel Chada (Doutorando)
 * Ângelo Calvão Mondaini (Doutorando)
 * Israel (Mestrando)

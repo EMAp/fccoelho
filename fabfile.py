@@ -7,6 +7,6 @@ def make():
 def deploy():
     local('git add *')
 #    local('mv -f html/* .')
-    local('git commit -a')
+    local('git commit -a -m "updated"')
     local('git push')
     
