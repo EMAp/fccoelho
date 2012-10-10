@@ -29,3 +29,5 @@ Pós-Doutorandos
 ---------------
 
 * Crysttian Arantes Paixão
+    - Projeto de Pesquisa: Modelo Computacional de Bitstring para a Dengue
+    - Lattes: http://lattes.cnpq.br/6914542088971040
