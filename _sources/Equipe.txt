@@ -1,7 +1,11 @@
 Equipe
 ======
 
-Nossa equipe está agregada no grupo de pesquisa NAMD (https://github.com/NAMD) sob minha coordenação em conjunto com o professor Renato Rocha Souza.
+Nossa equipe está agregada no grupo de pesquisa NAMD (https://github.com/NAMD) sob coordenação conjunta com o professor Renato Rocha Souza.
+
+Alunos de Iniciação Científica
+------------------------------
+* Lucas Carneiro Campos Nogueira Soares (EMAp-FGV)
 
 Alunos de Mestrado
 ------------------
