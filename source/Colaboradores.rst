@@ -25,13 +25,18 @@ Fundação Getúlio Vargas
     Colaborador no Projeto de Modelagem da Dengue.
 
 **Hugo de La Cruz**
-    Colaborador em Modelagem estocática da Dengue
+    Colaborador em Modelagem estocática da Dengue.
 
 **Ronaldo Lemos**
-    Colaborador no Projeto FGV-Cloud
+    Colaborador no Projeto FGV-Cloud.
 
 **Bruno Magrani**
-    Colaborador no Projeto FGV-Cloud
+    Colaborador no Projeto FGV-Cloud.
+
+Universidade Federal de Minas Gerais
+------------------------------------
+**Heliana Mello**
+    Colaboradora no Projeto PyPLN e outros ligados a Linguística computacional.
 
 Fundação Oswaldo Cruz
 ---------------------
