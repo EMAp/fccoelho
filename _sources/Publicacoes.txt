@@ -3,6 +3,11 @@ Publicações
 
 Artigos Publicados
 ------------------
+
+# Crysttian Arantes Paixão, Flávio Codeço Coelho. Computable Compressed Matrices. http://arxiv.org/abs/1303.0270 2013
+
+# Flávio Codeço Coelho, Renato Rocha Souza, Álvaro Justen, Flávio Amieiro, Heliana Mello. PyPLN: a Distributed Platform for Natural Language Processing. http://arxiv.org/abs/1301.7738 (Submitted to Journal of Machine Learning Research. 2013
+
 #. CODEÇO, C. T., Cordeiro, J.S., Lima, A.W.S., Colpo, R.A., CRUZ, O. G., COELHO, F. C., LUZ, P. M., STRUCHINER, C. J., Barros, F.R. The Epidemic Wave of Influenza A (H1N1) 2009 in Brazil. Cadernos de Saúde Pública (ENSP. Impresso). , 2012.
 
 #. Codeço, Cláudia Torres, Coelho, Flávio Codeço. MODELAGEM DE DOENÇAS TRANSMISSÍVEIS. Oecologia Australis. , v.16, p.110 - 116, 2012.

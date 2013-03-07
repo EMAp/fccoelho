@@ -10,4 +10,5 @@ Projetos de pesquisa atualmente em andamento:
    sen
    mbj
    culturomics
-   dengue
+   epidemio
+   bigdata

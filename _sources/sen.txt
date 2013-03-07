@@ -21,7 +21,7 @@ Alguns resultados na área de visual analytics podem ser visualizados abaixo:
 
 Estudos sobre ciclo de vida de um processo
 ------------------------------------------
-Proporção do tempo médio gasto de cada responsável, na vida útil de um processo.
+Proporção do tempo médio gasto por cada responsável, na vida de um processo.
 
 .. image:: _static/tempo_total_por_responsavel_por_tempo.png
    :width: 800px
@@ -30,7 +30,7 @@ Proporção do tempo médio gasto de cada responsável, na vida útil de um proc
 
 Bosque do supremo:
 ^^^^^^^^^^^^^^^^^
-Na figura abaixo, cada arvore representa um ministro do STF durante o ano de 2006. O número cada ramos representa uma classe de processos
+Na figura abaixo, cada árvore representa um ministro do STF durante o ano de 2006. O número cada ramos representa uma classe de processos
 diferente. Cada folha representa um processo julgado ou relatado pelo ministro.
 
 .. image:: _static/bosque2006.png

@@ -1,2 +1,0 @@
-Modelagem Matemática da Dengue
-==============================
