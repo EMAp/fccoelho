@@ -22,6 +22,7 @@ Alguns resultados na área de visual analytics podem ser visualizados abaixo:
 Estudos sobre ciclo de vida de um processo
 ------------------------------------------
 Proporção do tempo médio gasto de cada responsável, na vida útil de um processo.
+
 .. image:: _static/tempo_total_por_responsavel_por_tempo.png
    :width: 800px
 
