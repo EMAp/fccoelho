@@ -1,6 +1,9 @@
 Modelagem Matemática de epidemias
 =================================
 
+Neste projeto buscamos estudar os mecanismos de espalhamento de doenças infecciosas Através da construção de
+modelos matemáticos.
+
 Apoio
 -----
 

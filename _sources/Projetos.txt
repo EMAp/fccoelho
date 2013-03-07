@@ -12,3 +12,5 @@ Projetos de pesquisa atualmente em andamento:
    culturomics
    epidemio
    bigdata
+   mobilidade
+
