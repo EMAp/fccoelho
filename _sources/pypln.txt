@@ -12,3 +12,11 @@ sintática e semântica de corpora de textos em português e inglês.
 
  Este projeto encontra-se em sua primeira versão para uso público, ainda considerada "beta". Mas seu código fonte já
  está disponível online: https://namd.github.com/pypln
+
+
+ Apoio
+-----
+
+.. image:: _static/fgv.jpg
+:width: 200px
+
