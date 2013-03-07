@@ -25,6 +25,5 @@ Seções
 Encontre o que procura
 ----------------------
 
-* :ref:`genindex`
 * :ref:`search`
 
