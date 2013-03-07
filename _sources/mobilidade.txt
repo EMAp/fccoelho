@@ -10,8 +10,8 @@ Apoio
 -----
 
 .. image:: _static/faperj.jpg
-:width: 100px
+    :width: 100px
 
 .. image:: _static/fgv.jpg
-:width: 100px
+    :width: 100px
 
