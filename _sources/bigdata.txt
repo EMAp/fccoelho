@@ -8,8 +8,8 @@ Apoio
 -----
 
 .. image:: _static/cnpq.jpg
-   :width: 200px
+   :width: 100px
 
 .. image:: _static/fgv.jpg
-   :width: 200px
+   :width: 100px
 

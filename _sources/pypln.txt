@@ -18,5 +18,5 @@ sintática e semântica de corpora de textos em português e inglês.
 -----
 
 .. image:: _static/fgv.jpg
-   :width: 200px
+   :width: 100px
 
