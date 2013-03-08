@@ -15,12 +15,12 @@ Uma vez geo-referenciados os dados, podemos então visualizar e analizar os padr
 
 **Mapa de calor (com linhas de contorno) representando a distribuição espacial de uma variável:**
 
-.. image:: _static/heatcontorno.png
+.. image:: _static/heatcontorno.jpg
     :width: 450px
 
 **Mapa Coroplético com segmentação hexagonal:**
 
-.. image:: _static/hex.png
+.. image:: _static/hex.jpg
     :width: 450px
 
 Apoio
