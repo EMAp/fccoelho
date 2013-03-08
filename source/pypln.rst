@@ -5,7 +5,7 @@ PyPLN
 * Web Application: http://fgv.pypln.org
 
 .. image:: _static/pyplnweb.png
-    :width: 400px
+    :width: 600px
 
 Este projeto consiste em uma plataforma para análise textual de alto nível, envovendo ferramentas de análise léxica,
 sintática e semântica de corpora de textos em português e inglês.
