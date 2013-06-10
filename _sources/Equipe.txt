@@ -10,8 +10,9 @@ Alunos de Iniciação Científica
 Alunos de Mestrado
 ------------------
 
-* Joyce Figueiró. Modelagem Estocástica de Conflitos Judiciais. 2012. Dissertação (Modelagem Matemática da Informação) - Fundação Getúlio Vargas
+* Joyce Figueiró. Modelagem Matemática da Síndrome do colapso de Colônias de Abelhas. 2012. Dissertação (Modelagem Matemática da Informação) - Fundação Getúlio Vargas
 * Daniel Fialho. 2012
+* Evandro Dalbem. 2013
 
 Alunos de Doutorado
 -------------------
@@ -25,9 +26,9 @@ Assistentes de Pesquisa
 * Daniel Chada (Doutorando)
 * Ângelo Calvão Mondaini (Doutorando)
 * Dayanne Fernandes (Mestre)
-* Israel Teixeira (Mestrando)
 * Andre Oliveira (Mestrando)
 * Flávio Amieiro (Graduando)
+* Isabelle Lessa 
 
 Pós-Doutorandos
 ---------------
