@@ -4,11 +4,9 @@ Publicações
 Artigos Publicados
 ------------------
 
-#. PAIXAO, C. A., COELHO, F. C. Bitstring Model for Resitance in Aedes Aegypti In: 4th conference on computational and mathematical population dynamics, 2013, Taiyuan, Shanxi Province.
-  The Fourth Conference on Computational and Mathematical Population Dynamics. , 2013. v.1. p.40 - 40
+#. PAIXAO, C. A., COELHO, F. C. Bitstring Model for Resitance in Aedes Aegypti In: 4th conference on computational and mathematical population dynamics, 2013, Taiyuan, Shanxi Province. The Fourth Conference on Computational and Mathematical Population Dynamics. , 2013. v.1. p.40 - 40
 
-#. COELHO, F. C., Souza, R. R., PAIXAO, C. A. Unraveling Law Usage Patterns using Temporal Networks	 In: Temporal and Dynamic Networks: From Data to Models, 2013, Copenhagen.
-  NetSci2013 Satellite Meeting Temporal and Dynamic Networks: Data to Models. Copenhagen: , 2013. v.1. p.25 - 25
+#. COELHO, F. C., Souza, R. R., PAIXAO, C. A. Unraveling Law Usage Patterns using Temporal Networks	 In: Temporal and Dynamic Networks: From Data to Models, 2013, Copenhagen. NetSci2013 Satellite Meeting Temporal and Dynamic Networks: Data to Models. Copenhagen: , 2013. v.1. p.25 - 25
 
 #. Crysttian Arantes Paixão, Flávio Codeço Coelho. Computable Compressed Matrices. http://arxiv.org/abs/1303.0270 2013.
 
