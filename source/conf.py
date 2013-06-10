@@ -103,7 +103,7 @@ html_theme_path = ['.']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = u"Minha Página..."
+html_title = u"Flávio Codeço Coelho, Associate Professor, School of Applied Mathematics - FGV"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
